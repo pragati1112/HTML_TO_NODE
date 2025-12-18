@@ -1,0 +1,560 @@
+*{
+ /* border: 1px dashed red; */
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #0B0D2A;
+}
+.pos-rlt{
+    position: relative;
+}
+.me-6{
+    margin-right: 160px;
+}
+.pos-abs{
+    position: absolute;
+}
+.headerbg{
+    background-color: #070720;
+}
+.font-m{
+    font-family: "Mulish", sans-serif;
+    font-size: 12px; 
+}
+.font-mulish{
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+}
+.text-grey{
+    color: #b7b7b7;
+}
+.font-oswad{
+    font-family: "Oswald", sans-serif;
+}
+.ps-10{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* *********** for dropdown ***********  */
+ .drop-down{
+    position: relative;
+    top: 100px;
+ }
+.greyheader{
+    background-color: #4C4C4C;
+}
+.padding-b-t{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.font-size-small{
+    font-family: "Mulish", sans-serif;
+    font-size: 11px;
+}
+.home1{
+    font-size: 11px;
+}
+li:hover a{
+    color: aliceblue;
+}
+/* *********** banner-start ***********  */
+.hero1{
+    background-image: url('../images/hero-1.jpg');
+    width: 100%;
+    height:750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 40px;
+}
+.padding-30{
+    padding: 30px;
+}
+.mainh{
+    font-family: "Oswald", sans-serif;
+    font-size: 42px;
+    color: white;
+}
+.para1{
+    font-family: "Mulish", sans-serif;
+    font-size: 16px;
+}
+.font-mulish1{
+    font-size: 14px;
+    font-family: "Mulish", sans-serif;
+}
+.ms-5{
+    margin-right: 2px;
+}
+.padding-top-50{
+    padding-top: 50px;
+}
+/* *********** banner-end ***********  */
+/* *********** section-1 start ***********  */
+h5{
+    font-family: "Mulish", sans-serif;
+}
+.line{
+    height: 32px;
+    width: 4px;
+    background-color: red;
+}
+.trending{
+    font-family: "Oswald", sans-serif;
+    font-size: 24px;
+    color: white;
+}
+.cartoon1{
+    background-image: url(../images/trend-1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon2{
+    background-image: url(../images/trend-2.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon3{
+    background-image: url(../images/trend-3.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon4{
+    background-image: url(../images/trend-4.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon5{
+    background-image: url(../images/trend-5.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon6{
+    background-image: url(../images/popular-1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon7{
+    background-image: url(../images/popular-2.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon8{
+    background-image: url(../images/popular-3.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon9{
+    background-image: url(../images/popular-4.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon10{
+    background-image: url(../images/popular-5.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.cartoon11{
+    background-image: url(../images/popular-6.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.p1{
+    transition: all 0.5s;
+}
+.frame:hover .small1{
+    transform: scale(1.1);
+}
+.recent1{
+    background-image: url(../images/recent-1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.recent2{
+    background-image: url(../images/recent-2.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.recent3{
+    background-image: url(../images/recent-3.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height:325px;
+}
+.recent4{
+    background-image: url(../images/recent-4.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.recent5{
+    background-image: url(../images/recent-5.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.recent6{
+    background-image: url(../images/recent-6.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.trend-6{
+    background-image: url(../images/trend-6.jpg\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live1{
+    background-image: url(../images/live-1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live2{
+    background-image: url(../images/live-2.jpg.webp);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live3{
+    background-image: url(../images/live-3.jpg.webp);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live4{
+    background-image: url(../images/live-4.jpg.webp);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live5{
+    background-image: url(../images/live-5.jpg.webp);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.live6{
+    background-image: url(../images/live-6.jpg.webp);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:325px;
+}
+.tv1{
+    background-image: url(../images/tv-1.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.tv2{
+    background-image: url(../images/tv-2.jpg);
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.tv3{
+    background-image: url(../images/tv-3.jpg);
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.tv4{
+    background-image: url(../images/tv-4.jpg);
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.tv5{
+    background-image: url(../images/tv-5.jpg);
+    width: 100%;
+    height: 200px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 5px;
+}
+.margin-10-r{
+    margin-right: 10px;
+}
+.margin-10-l{
+    margin-left: 10px;
+}
+.padding-top-20{
+    padding-top: 20px;
+}
+.padding-r{
+    padding-right: 5px;
+}
+.padding-15{
+    padding: 15px;
+}
+.massage a{
+    padding: 8px;
+    border-radius: 2px;
+    background-color: rgba(52, 52, 72, 0.3);
+}
+.b-18{
+    padding: 5px;
+    background-color: rosybrown;
+}
+.font-9{
+    font-size: 15px;
+}
+.pt-10{
+    padding-top: 170px;
+}
+.padding-top-80{
+    padding-top: 80px;
+}
+/* *********** top-view ***********  */
+/* *********** contact page-2 ***********  */
+/* banner */
+.banneranime{
+    background-image: url(../images/normal-breadcrumb.jpg);
+    width: 100%;
+    height: 300px;
+}
+.blog-1{
+    background-image: url(../images/blog-1.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-2{
+    background-image: url(../images/blog-2.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-3{
+    background-image: url(../images/blog-3.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-4{
+    background-image: url(../images/blog-4.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-5{
+    background-image: url(../images/blog-5.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-6{
+    background-image: url(../images/blog-6.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-7{
+    background-image: url(../images/blog-7.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-8{
+    background-image: url(../images/blog-8.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-9{
+    background-image: url(../images/blog-9.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-10{
+    background-image: url(../images/blog-10.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-11{
+    background-image: url(../images/blog-11.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.blog-12{
+    background-image: url(../images/blog-12.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+/* *********** Datail-Page ***********  */
+.daitail-pic-1{
+    background-image: url(../images/details-pic.jpg.webp);
+    width: 100%;
+    height: 440px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bluebg{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: #1D1E39;
+}
+/* *********** section-1 Contact-Page ***********  */
+.linewhite{
+ width: 1px;
+ height: 300px;
+ background-color: aliceblue;
+}
+/* *********** Category-Page ***********  */
+.round{
+    padding: 10px 20px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid white;
+}
+/* *********** for accordion ***********  */
+.accordion{
+    --bs-accordion-border-color: var(--bs-border-color);
+    --bs-border-color: #4C4C4C;
+    --bs-accordion-border-radius: var(--bs-border-radius);
+    --bs-border-radius: 0;
+}
+.accordion-button::after{
+    filter: brightness(0) invert(1);
+   
+ }
+/* ***********for-model-in-contact-page *********** */
+.line2{
+    width: 100px;
+    height: 1px;
+    background-color: rgb(0, 0, 0);
+}
+
+/* *********** for scrollbar ***********  */
+/* *********** width ***********  */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+/* *********** track ***********  */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(211, 68, 68); 
+    border-radius: 10px;
+  }
+/* *********** handle ***********  */
+  ::-webkit-scrollbar-thumb {
+    background: #4C4C4C; 
+    border-radius: 10px;
+  }
+/* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #595353; 
+  }
+/* *********** banner-prev-next-btn ***********  */
+.carousel-control-prev {
+    top: -500px;
+    left: -62px;
+}
+.carousel-control-next {
+    top: -500px;
+    left: 1259px;
+}
+.rotate-180{
+    transform: rotate(45deg);
+}
+.rotate-90{
+    transform: rotate(-45deg);
+}
+.btn-start{
+    left: -40px;
+}
+.btn-end{
+    right: -40px;
+}
+.border--2{
+    border: 10px solid #0B0D2A;
+}
+.p:hover i{
+    color: white;
+}
+.p i{
+    color: rgb(26, 25, 25);
+}
+
+
+ 
+
+
+
+
